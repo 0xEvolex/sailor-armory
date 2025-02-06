@@ -3,10 +3,6 @@
         "guild": "000gang",
         "characters": [
             {
-                "name": "Evolex",
-                "url": "https://pe.sailor-online.com/en/character/77360-evolex"
-            },
-            {
                 "name": "Profeta",
                 "url": "https://pe.sailor-online.com/en/character/45901-profeta"
             },
@@ -104,6 +100,10 @@
         "guild": "000ganq",
         "characters": [
             {
+                "name": "Agresiv",
+                "url": "https://pe.sailor-online.com/en/character/62251-agresiv"
+            },
+            {
                 "name": "IGoDoFWaRI",
                 "url": "https://pe.sailor-online.com/en/character/67376-igodofwari"
             },
@@ -144,6 +144,10 @@
                 "url": "https://pe.sailor-online.com/en/character/40642-underrated"
             },
             {
+                "name": "KingSlayer",
+                "url": "https://pe.sailor-online.com/en/character/66222-kingslayer"
+            },
+            {
                 "name": "Two",
                 "url": "https://pe.sailor-online.com/en/character/28975-two"
             },
@@ -168,10 +172,6 @@
                 "url": "https://pe.sailor-online.com/en/character/65082-draval"
             },
             {
-                "name": "Almighty",
-                "url": "https://pe.sailor-online.com/en/character/58662-cheech"
-            },
-            {
                 "name": "Auisan",
                 "url": "https://pe.sailor-online.com/en/character/44717-auisan"
             },
@@ -194,6 +194,932 @@
             {
                 "name": "iDeaTh_MyTh",
                 "url": "https://pe.sailor-online.com/en/character/66963-ideath-myth"
+            }
+        ]
+    },
+    {
+        "guild": "7kingdom",
+        "characters": [
+            {
+                "name": "Mad",
+                "url": "https://pe.sailor-online.com/en/character/28471-mad"
+            },
+            {
+                "name": "xPeChii_",
+                "url": "https://pe.sailor-online.com/en/character/62667-xpechii"
+            },
+            {
+                "name": "DeepBox",
+                "url": "https://pe.sailor-online.com/en/character/76560-deepbox"
+            },
+            {
+                "name": "MUMMY",
+                "url": "https://pe.sailor-online.com/en/character/98563-mummy"
+            },
+            {
+                "name": "NatiliuS",
+                "url": "https://pe.sailor-online.com/en/character/95439-natilius"
+            },
+            {
+                "name": "Owl",
+                "url": "https://pe.sailor-online.com/en/character/46082-owl"
+            },
+            {
+                "name": "GHAZAL",
+                "url": "https://pe.sailor-online.com/en/character/23636-ghazal"
+            },
+            {
+                "name": "snicker304",
+                "url": "https://pe.sailor-online.com/en/character/57567-snicker304"
+            },
+            {
+                "name": "Mingo",
+                "url": "https://pe.sailor-online.com/en/character/64599-mingo"
+            },
+            {
+                "name": "Katniss",
+                "url": "https://pe.sailor-online.com/en/character/80156-katniss"
+            },
+            {
+                "name": "Andi",
+                "url": "https://pe.sailor-online.com/en/character/99131-andi"
+            },
+            {
+                "name": "PrettyQueen",
+                "url": "https://pe.sailor-online.com/en/character/45785-prettyqueen"
+            },
+            {
+                "name": "Baddie",
+                "url": "https://pe.sailor-online.com/en/character/33580-baddie"
+            },
+            {
+                "name": "SnowQueen",
+                "url": "https://pe.sailor-online.com/en/character/73641-snowqueen"
+            },
+            {
+                "name": "CareFul",
+                "url": "https://pe.sailor-online.com/en/character/90193-careful"
+            },
+            {
+                "name": "Resta",
+                "url": "https://pe.sailor-online.com/en/character/98153-resta"
+            },
+            {
+                "name": "Sam0HT",
+                "url": "https://pe.sailor-online.com/en/character/89573-sam0ht"
+            },
+            {
+                "name": "TheLOK",
+                "url": "https://pe.sailor-online.com/en/character/8551-thelok"
+            },
+            {
+                "name": "PsyCho",
+                "url": "https://pe.sailor-online.com/en/character/71762-psycho"
+            },
+            {
+                "name": "BornToBeHero",
+                "url": "https://pe.sailor-online.com/en/character/10283-borntobehero"
+            },
+            {
+                "name": "MoonDog",
+                "url": "https://pe.sailor-online.com/en/character/75520-moondog"
+            }
+        ]
+    },
+    {
+        "guild": "7kingdoms",
+        "characters": [
+            {
+                "name": "Destructo",
+                "url": "https://pe.sailor-online.com/en/character/50635-destructo"
+            },
+            {
+                "name": "InsaneD",
+                "url": "https://pe.sailor-online.com/en/character/16376-insaned"
+            },
+            {
+                "name": "ulucaN",
+                "url": "https://pe.sailor-online.com/en/character/76079-ulucan"
+            },
+            {
+                "name": "_PredatoR",
+                "url": "https://pe.sailor-online.com/en/character/32977-predator"
+            },
+            {
+                "name": "Arrax",
+                "url": "https://pe.sailor-online.com/en/character/24439-arrax"
+            },
+            {
+                "name": "Dell_",
+                "url": "https://pe.sailor-online.com/en/character/76399-dell"
+            },
+            {
+                "name": "DeaThKiss",
+                "url": "https://pe.sailor-online.com/en/character/89927-deathkiss"
+            },
+            {
+                "name": "Veron",
+                "url": "https://pe.sailor-online.com/en/character/39380-veron"
+            },
+            {
+                "name": "ElCapo",
+                "url": "https://pe.sailor-online.com/en/character/50769-elcapo"
+            },
+            {
+                "name": "ArtDeco",
+                "url": "https://pe.sailor-online.com/en/character/73158-artdeco"
+            },
+            {
+                "name": "Svizzera",
+                "url": "https://pe.sailor-online.com/en/character/65230-svizzera"
+            },
+            {
+                "name": "Argentina",
+                "url": "https://pe.sailor-online.com/en/character/44243-argentina"
+            },
+            {
+                "name": "Silent_Hell",
+                "url": "https://pe.sailor-online.com/en/character/91400-silent-hell"
+            },
+            {
+                "name": "BrainBreaker",
+                "url": "https://pe.sailor-online.com/en/character/42556-brainbreaker"
+            },
+            {
+                "name": "ProsTyLee",
+                "url": "https://pe.sailor-online.com/en/character/62992-prostylee"
+            },
+            {
+                "name": "Natasha",
+                "url": "https://pe.sailor-online.com/en/character/8530-natasha"
+            },
+            {
+                "name": "Majestic",
+                "url": "https://pe.sailor-online.com/en/character/61377-majestic"
+            },
+            {
+                "name": "MobAriz",
+                "url": "https://pe.sailor-online.com/en/character/92490-mobariz"
+            },
+            {
+                "name": "Andrez",
+                "url": "https://pe.sailor-online.com/en/character/58395-andrez"
+            },
+            {
+                "name": "Bella_",
+                "url": "https://pe.sailor-online.com/en/character/90527-bella"
+            },
+            {
+                "name": "Seraphelina",
+                "url": "https://pe.sailor-online.com/en/character/97672-seraphelina"
+            },
+            {
+                "name": "l__Kimo__l",
+                "url": "https://pe.sailor-online.com/en/character/36849-l-kimo-l"
+            },
+            {
+                "name": "qp",
+                "url": "https://pe.sailor-online.com/en/character/46347-qp"
+            },
+            {
+                "name": "xyc",
+                "url": "https://pe.sailor-online.com/en/character/75570-xyc"
+            }
+        ]
+    },
+    {
+        "guild": "aftermath",
+        "characters": [
+            {
+                "name": "9lives",
+                "url": "https://pe.sailor-online.com/en/character/46965-9lives"
+            },
+            {
+                "name": "Fritessaus",
+                "url": "https://pe.sailor-online.com/en/character/44479-fritessaus"
+            },
+            {
+                "name": "Firejeok",
+                "url": "https://pe.sailor-online.com/en/character/51671-firejeok"
+            },
+            {
+                "name": "Nero",
+                "url": "https://pe.sailor-online.com/en/character/19180-nero"
+            },
+            {
+                "name": "Rev",
+                "url": "https://pe.sailor-online.com/en/character/18120-rev"
+            },
+            {
+                "name": "Adwasd",
+                "url": "https://pe.sailor-online.com/en/character/85109-adwasd"
+            },
+            {
+                "name": "Retribution",
+                "url": "https://pe.sailor-online.com/en/character/76357-retribution"
+            },
+            {
+                "name": "Graphix",
+                "url": "https://pe.sailor-online.com/en/character/18819-graphix"
+            },
+            {
+                "name": "SouldeR",
+                "url": "https://pe.sailor-online.com/en/character/51625-soulder"
+            },
+            {
+                "name": "Yasuo",
+                "url": "https://pe.sailor-online.com/en/character/15922-yasuo"
+            },
+            {
+                "name": "ShishKebab",
+                "url": "https://pe.sailor-online.com/en/character/15870-shishkebab"
+            },
+            {
+                "name": "Legacy",
+                "url": "https://pe.sailor-online.com/en/character/9921-legacy"
+            },
+            {
+                "name": "TheMexican",
+                "url": "https://pe.sailor-online.com/en/character/95938-themexican"
+            },
+            {
+                "name": "Toxic",
+                "url": "https://pe.sailor-online.com/en/character/31064-toxic"
+            },
+            {
+                "name": "Haf",
+                "url": "https://pe.sailor-online.com/en/character/83620-haf"
+            },
+            {
+                "name": "13",
+                "url": "https://pe.sailor-online.com/en/character/42099-13"
+            },
+            {
+                "name": "DestructioN",
+                "url": "https://pe.sailor-online.com/en/character/59460-randomone"
+            },
+            {
+                "name": "Tamaka",
+                "url": "https://pe.sailor-online.com/en/character/26415-tamaka"
+            },
+            {
+                "name": "GodRippeR",
+                "url": "https://pe.sailor-online.com/en/character/52441-godripper"
+            },
+            {
+                "name": "Lagerthina",
+                "url": "https://pe.sailor-online.com/en/character/85417-lagerthina"
+            },
+            {
+                "name": "Dash",
+                "url": "https://pe.sailor-online.com/en/character/38013-dash"
+            },
+            {
+                "name": "Negru",
+                "url": "https://pe.sailor-online.com/en/character/36444-negru"
+            },
+            {
+                "name": "LostWisdom",
+                "url": "https://pe.sailor-online.com/en/character/9184-lostwisdom"
+            }
+        ]
+    },
+    {
+        "guild": "clowns",
+        "characters": [
+            {
+                "name": "Bamya",
+                "url": "https://pe.sailor-online.com/en/character/21855-bamya"
+            },
+            {
+                "name": "Madara",
+                "url": "https://pe.sailor-online.com/en/character/50058-madara"
+            },
+            {
+                "name": "Champ",
+                "url": "https://pe.sailor-online.com/en/character/93181-champ"
+            },
+            {
+                "name": "Gogeta",
+                "url": "https://pe.sailor-online.com/en/character/17249-gogeta"
+            },
+            {
+                "name": "Morgan",
+                "url": "https://pe.sailor-online.com/en/character/47582-morgan"
+            },
+            {
+                "name": "Mathilda",
+                "url": "https://pe.sailor-online.com/en/character/49224-shogun"
+            },
+            {
+                "name": "DeathP3Nalty",
+                "url": "https://pe.sailor-online.com/en/character/23460-deathp3nalty"
+            },
+            {
+                "name": "Soulreaper",
+                "url": "https://pe.sailor-online.com/en/character/93649-soulreaper"
+            },
+            {
+                "name": "Lumina",
+                "url": "https://pe.sailor-online.com/en/character/44941-lumina"
+            },
+            {
+                "name": "JustinCent",
+                "url": "https://pe.sailor-online.com/en/character/72238-justincent"
+            },
+            {
+                "name": "DieBullen",
+                "url": "https://pe.sailor-online.com/en/character/25874-diebullen"
+            },
+            {
+                "name": "gRen",
+                "url": "https://pe.sailor-online.com/en/character/12470-gren"
+            },
+            {
+                "name": "Mercy_Evil",
+                "url": "https://pe.sailor-online.com/en/character/6497-mercy-evil"
+            },
+            {
+                "name": "Brazor",
+                "url": "https://pe.sailor-online.com/en/character/37050-broeki"
+            },
+            {
+                "name": "Onizuka",
+                "url": "https://pe.sailor-online.com/en/character/34022-onizuka"
+            },
+            {
+                "name": "73k",
+                "url": "https://pe.sailor-online.com/en/character/81281-73k"
+            },
+            {
+                "name": "Gaina",
+                "url": "https://pe.sailor-online.com/en/character/58263-gaina"
+            },
+            {
+                "name": "Honoronr",
+                "url": "https://pe.sailor-online.com/en/character/21700-honoronr"
+            },
+            {
+                "name": "Eleqance",
+                "url": "https://pe.sailor-online.com/en/character/49237-eleqance"
+            },
+            {
+                "name": "OdysseY",
+                "url": "https://pe.sailor-online.com/en/character/26-queen-1"
+            },
+            {
+                "name": "ChantillysS",
+                "url": "https://pe.sailor-online.com/en/character/64793-chantillyss"
+            },
+            {
+                "name": "Roxanna",
+                "url": "https://pe.sailor-online.com/en/character/65784-roxanna"
+            },
+            {
+                "name": "UveyS",
+                "url": "https://pe.sailor-online.com/en/character/20992-uveys"
+            },
+            {
+                "name": "Corrupt",
+                "url": "https://pe.sailor-online.com/en/character/10064-corrupt"
+            }
+        ]
+    },
+    {
+        "guild": "legends",
+        "characters": [
+            {
+                "name": "PABASCHKE",
+                "url": "https://pe.sailor-online.com/en/character/4520-pabaschke"
+            },
+            {
+                "name": "Miserable",
+                "url": "https://pe.sailor-online.com/en/character/38653-miserable"
+            },
+            {
+                "name": "Cee",
+                "url": "https://pe.sailor-online.com/en/character/94147-cee"
+            },
+            {
+                "name": "samorai",
+                "url": "https://pe.sailor-online.com/en/character/72989-samorai"
+            },
+            {
+                "name": "Vandish",
+                "url": "https://pe.sailor-online.com/en/character/74790-vandish"
+            },
+            {
+                "name": "Natsuki",
+                "url": "https://pe.sailor-online.com/en/character/71528-natsuki"
+            },
+            {
+                "name": "Fox",
+                "url": "https://pe.sailor-online.com/en/character/30380-fox"
+            },
+            {
+                "name": "Razorlight",
+                "url": "https://pe.sailor-online.com/en/character/47829-razorlight"
+            },
+            {
+                "name": "Yurel",
+                "url": "https://pe.sailor-online.com/en/character/83013-yurel"
+            },
+            {
+                "name": "Mada",
+                "url": "https://pe.sailor-online.com/en/character/98752-mada"
+            },
+            {
+                "name": "TheRed",
+                "url": "https://pe.sailor-online.com/en/character/88611-thered"
+            },
+            {
+                "name": "IRoLLo",
+                "url": "https://pe.sailor-online.com/en/character/31737-irollo"
+            },
+            {
+                "name": "Hybris",
+                "url": "https://pe.sailor-online.com/en/character/65822-hybris"
+            },
+            {
+                "name": "YelloWStone",
+                "url": "https://pe.sailor-online.com/en/character/37124-yellowstone"
+            },
+            {
+                "name": "CB9",
+                "url": "https://pe.sailor-online.com/en/character/92715-cb9"
+            },
+            {
+                "name": "Sharapova",
+                "url": "https://pe.sailor-online.com/en/character/47764-sharapova"
+            },
+            {
+                "name": "Nidalee",
+                "url": "https://pe.sailor-online.com/en/character/91548-nidalee"
+            },
+            {
+                "name": "AmyPond",
+                "url": "https://pe.sailor-online.com/en/character/94253-amypond"
+            },
+            {
+                "name": "VanTaG_",
+                "url": "https://pe.sailor-online.com/en/character/67406-vantag"
+            },
+            {
+                "name": "Kem",
+                "url": "https://pe.sailor-online.com/en/character/83885-kem"
+            },
+            {
+                "name": "OR",
+                "url": "https://pe.sailor-online.com/en/character/57076-or"
+            },
+            {
+                "name": "ElGaeb",
+                "url": "https://pe.sailor-online.com/en/character/17412-elgaeb"
+            },
+            {
+                "name": "Shequ",
+                "url": "https://pe.sailor-online.com/en/character/71989-shequ"
+            }
+        ]
+    },
+    {
+        "guild": "mny",
+        "characters": [
+            {
+                "name": "ApriI",
+                "url": "https://pe.sailor-online.com/en/character/72480-undyingrage"
+            },
+            {
+                "name": "Evo",
+                "url": "https://pe.sailor-online.com/en/character/54283-evo"
+            },
+            {
+                "name": "qTpie_",
+                "url": "https://pe.sailor-online.com/en/character/24940-qtpie"
+            },
+            {
+                "name": "Hures",
+                "url": "https://pe.sailor-online.com/en/character/97441-hures"
+            },
+            {
+                "name": "Piciu",
+                "url": "https://pe.sailor-online.com/en/character/51261-piciu"
+            },
+            {
+                "name": "SenatorWill",
+                "url": "https://pe.sailor-online.com/en/character/83218-senatorwill"
+            },
+            {
+                "name": "Paganini",
+                "url": "https://pe.sailor-online.com/en/character/65820-paganini"
+            },
+            {
+                "name": "SleptOnQueen",
+                "url": "https://pe.sailor-online.com/en/character/36526-sleptonqueen"
+            },
+            {
+                "name": "Giro",
+                "url": "https://pe.sailor-online.com/en/character/52800-giro"
+            },
+            {
+                "name": "Extra",
+                "url": "https://pe.sailor-online.com/en/character/1998-pakostnikk"
+            },
+            {
+                "name": "Natsu",
+                "url": "https://pe.sailor-online.com/en/character/2517-natsu"
+            },
+            {
+                "name": "xXFamous",
+                "url": "https://pe.sailor-online.com/en/character/31316-xxfamous"
+            },
+            {
+                "name": "ArchEnemy",
+                "url": "https://pe.sailor-online.com/en/character/30965-archenemy"
+            },
+            {
+                "name": "Dax",
+                "url": "https://pe.sailor-online.com/en/character/2058-dax"
+            },
+            {
+                "name": "CrazySERB",
+                "url": "https://pe.sailor-online.com/en/character/15255-crazyserb"
+            },
+            {
+                "name": "Boyka",
+                "url": "https://pe.sailor-online.com/en/character/14990-boyka"
+            },
+            {
+                "name": "HighDude",
+                "url": "https://pe.sailor-online.com/en/character/332-highdude"
+            }
+        ]
+    },
+    {
+        "guild": "money",
+        "characters": [
+            {
+                "name": "Xel",
+                "url": "https://pe.sailor-online.com/en/character/36188-xel"
+            },
+            {
+                "name": "Prinless",
+                "url": "https://pe.sailor-online.com/en/character/4654-pooxy"
+            },
+            {
+                "name": "Ruskee",
+                "url": "https://pe.sailor-online.com/en/character/96762-ruskee"
+            },
+            {
+                "name": "Senhale",
+                "url": "https://pe.sailor-online.com/en/character/74490-senhale"
+            },
+            {
+                "name": "Nyegito",
+                "url": "https://pe.sailor-online.com/en/character/14411-nyegito"
+            },
+            {
+                "name": "Gaberko",
+                "url": "https://pe.sailor-online.com/en/character/92839-gaberko"
+            },
+            {
+                "name": "Ratash",
+                "url": "https://pe.sailor-online.com/en/character/40566-ratash"
+            },
+            {
+                "name": "YesukeN",
+                "url": "https://pe.sailor-online.com/en/character/37078-yesuken"
+            },
+            {
+                "name": "Shinlee",
+                "url": "https://pe.sailor-online.com/en/character/27009-shinlee"
+            },
+            {
+                "name": "Baklazhany",
+                "url": "https://pe.sailor-online.com/en/character/57792-baklazhany"
+            },
+            {
+                "name": "Kraszu",
+                "url": "https://pe.sailor-online.com/en/character/78178-kraszu"
+            },
+            {
+                "name": "OligarX",
+                "url": "https://pe.sailor-online.com/en/character/82164-equilibrium"
+            },
+            {
+                "name": "Yeomje",
+                "url": "https://pe.sailor-online.com/en/character/89254-yeomje"
+            },
+            {
+                "name": "L00L",
+                "url": "https://pe.sailor-online.com/en/character/40797-l00l"
+            },
+            {
+                "name": "Zarazka",
+                "url": "https://pe.sailor-online.com/en/character/57238-zarazka"
+            },
+            {
+                "name": "Kiara",
+                "url": "https://pe.sailor-online.com/en/character/81649-kiara"
+            },
+            {
+                "name": "Nemesis",
+                "url": "https://pe.sailor-online.com/en/character/69506-nemesis"
+            },
+            {
+                "name": "Serdce",
+                "url": "https://pe.sailor-online.com/en/character/737-serdce"
+            },
+            {
+                "name": "Virtuti",
+                "url": "https://pe.sailor-online.com/en/character/91597-virtuti"
+            },
+            {
+                "name": "May",
+                "url": "https://pe.sailor-online.com/en/character/86165-evil-alpha"
+            },
+            {
+                "name": "iPandzia",
+                "url": "https://pe.sailor-online.com/en/character/55661-ipandzia"
+            },
+            {
+                "name": "Fransawy",
+                "url": "https://pe.sailor-online.com/en/character/91805-bardhan"
+            },
+            {
+                "name": "Tehlike",
+                "url": "https://pe.sailor-online.com/en/character/93799-tehlike"
+            }
+        ]
+    },
+    {
+        "guild": "ninja",
+        "characters": [
+            {
+                "name": "xXBlackXx",
+                "url": "https://pe.sailor-online.com/en/character/34047-xxblackxx"
+            },
+            {
+                "name": "Repulsive",
+                "url": "https://pe.sailor-online.com/en/character/45538-repulsive"
+            },
+            {
+                "name": "Nathale",
+                "url": "https://pe.sailor-online.com/en/character/59345-nathale"
+            },
+            {
+                "name": "Bibiwolf",
+                "url": "https://pe.sailor-online.com/en/character/76324-bibiwolf"
+            },
+            {
+                "name": "notreal",
+                "url": "https://pe.sailor-online.com/en/character/70057-notreal"
+            },
+            {
+                "name": "BlackFOR",
+                "url": "https://pe.sailor-online.com/en/character/46135-blackfor"
+            },
+            {
+                "name": "Turkmusun",
+                "url": "https://pe.sailor-online.com/en/character/18419-turkmusun"
+            },
+            {
+                "name": "Mancake",
+                "url": "https://pe.sailor-online.com/en/character/3853-mancake"
+            },
+            {
+                "name": "LordSir",
+                "url": "https://pe.sailor-online.com/en/character/54864-lordsir"
+            },
+            {
+                "name": "xBig",
+                "url": "https://pe.sailor-online.com/en/character/64201-xbig"
+            },
+            {
+                "name": "LlaveritoPk",
+                "url": "https://pe.sailor-online.com/en/character/37924-llaveritopk"
+            },
+            {
+                "name": "Saiga",
+                "url": "https://pe.sailor-online.com/en/character/31191-saiga"
+            },
+            {
+                "name": "THR",
+                "url": "https://pe.sailor-online.com/en/character/35235-thr"
+            },
+            {
+                "name": "ShiniG7miXD",
+                "url": "https://pe.sailor-online.com/en/character/82998-shinig7mixd"
+            },
+            {
+                "name": "PacaX",
+                "url": "https://pe.sailor-online.com/en/character/72989-pacax"
+            },
+            {
+                "name": "iH2O",
+                "url": "https://pe.sailor-online.com/en/character/28638-ih2o"
+            },
+            {
+                "name": "TR0MPIT0",
+                "url": "https://pe.sailor-online.com/en/character/23364-tr0mpit0"
+            },
+            {
+                "name": "iMyranda",
+                "url": "https://pe.sailor-online.com/en/character/1354-imyranda"
+            },
+            {
+                "name": "4GB",
+                "url": "https://pe.sailor-online.com/en/character/47258-4gb"
+            },
+            {
+                "name": "RzN",
+                "url": "https://pe.sailor-online.com/en/character/47000-rzn"
+            },
+            {
+                "name": "MercyKiller",
+                "url": "https://pe.sailor-online.com/en/character/69652-mercykiller"
+            },
+            {
+                "name": "Caretta",
+                "url": "https://pe.sailor-online.com/en/character/21964-caretta"
+            }
+        ]
+    },
+    {
+        "guild": "primo",
+        "characters": [
+            {
+                "name": "CyberNetic",
+                "url": "https://pe.sailor-online.com/en/character/61715-cybernetic"
+            },
+            {
+                "name": "koelsch",
+                "url": "https://pe.sailor-online.com/en/character/82709-koelsch"
+            },
+            {
+                "name": "BeerCules",
+                "url": "https://pe.sailor-online.com/en/character/26614-natyxx"
+            },
+            {
+                "name": "ThatsLife",
+                "url": "https://pe.sailor-online.com/en/character/58538-thatslife"
+            },
+            {
+                "name": "Antrax",
+                "url": "https://pe.sailor-online.com/en/character/26559-antrax"
+            },
+            {
+                "name": "DevilishGirl",
+                "url": "https://pe.sailor-online.com/en/character/7746-devilishgirl"
+            },
+            {
+                "name": "Atlas",
+                "url": "https://pe.sailor-online.com/en/character/54093-atlas"
+            },
+            {
+                "name": "Divine",
+                "url": "https://pe.sailor-online.com/en/character/58395-divine"
+            },
+            {
+                "name": "Evolex",
+                "url": "https://pe.sailor-online.com/en/character/77360-evolex"
+            },
+            {
+                "name": "PsychoTerror",
+                "url": "https://pe.sailor-online.com/en/character/49053-psychoterror"
+            },
+            {
+                "name": "Famous1337",
+                "url": "https://pe.sailor-online.com/en/character/30124-famous1337"
+            },
+            {
+                "name": "Kozuki",
+                "url": "https://pe.sailor-online.com/en/character/89057-kozuki"
+            },
+            {
+                "name": "Maestro",
+                "url": "https://pe.sailor-online.com/en/character/82321-maestro"
+            },
+            {
+                "name": "Superrail",
+                "url": "https://pe.sailor-online.com/en/character/77912-cryksi"
+            },
+            {
+                "name": "Paladin",
+                "url": "https://pe.sailor-online.com/en/character/70568-paladin"
+            },
+            {
+                "name": "Hearty",
+                "url": "https://pe.sailor-online.com/en/character/50958-off"
+            },
+            {
+                "name": "Twink",
+                "url": "https://pe.sailor-online.com/en/character/14493-twink"
+            },
+            {
+                "name": "SupaNoob",
+                "url": "https://pe.sailor-online.com/en/character/13955-supanoob"
+            },
+            {
+                "name": "Chino",
+                "url": "https://pe.sailor-online.com/en/character/14828-chino"
+            },
+            {
+                "name": "Slaughters",
+                "url": "https://pe.sailor-online.com/en/character/65161-slaughters"
+            },
+            {
+                "name": "Flopdworld",
+                "url": "https://pe.sailor-online.com/en/character/79398-flopdworld"
+            },
+            {
+                "name": "Hemawari",
+                "url": "https://pe.sailor-online.com/en/character/23691-hemawari"
+            },
+            {
+                "name": "Rhaenyra",
+                "url": "https://pe.sailor-online.com/en/character/76366-rhaenyra"
+            },
+            {
+                "name": "cRs",
+                "url": "https://pe.sailor-online.com/en/character/52781-crs"
+            }
+        ]
+    },
+    {
+        "guild": "supremacy",
+        "characters": [
+            {
+                "name": "SeekNDestroy",
+                "url": "https://pe.sailor-online.com/en/character/23770-seekndestroy"
+            },
+            {
+                "name": "AletGergin",
+                "url": "https://pe.sailor-online.com/en/character/97078-tonysoprano"
+            },
+            {
+                "name": "LaveN",
+                "url": "https://pe.sailor-online.com/en/character/44559-laven"
+            },
+            {
+                "name": "Rin",
+                "url": "https://pe.sailor-online.com/en/character/84596-rin"
+            },
+            {
+                "name": "_SeaLioN__",
+                "url": "https://pe.sailor-online.com/en/character/64649-sealion"
+            },
+            {
+                "name": "Shila",
+                "url": "https://pe.sailor-online.com/en/character/7873-shila"
+            },
+            {
+                "name": "THETIS",
+                "url": "https://pe.sailor-online.com/en/character/38816-thetis"
+            },
+            {
+                "name": "Toji",
+                "url": "https://pe.sailor-online.com/en/character/13677-toji"
+            },
+            {
+                "name": "BlackRose",
+                "url": "https://pe.sailor-online.com/en/character/41214-blackrose"
+            },
+            {
+                "name": "Cabo",
+                "url": "https://pe.sailor-online.com/en/character/56921-cabo"
+            },
+            {
+                "name": "ChivasRegal",
+                "url": "https://pe.sailor-online.com/en/character/52997-chivasregal"
+            },
+            {
+                "name": "WalterWhite",
+                "url": "https://pe.sailor-online.com/en/character/14366-khal"
+            },
+            {
+                "name": "Wheezy",
+                "url": "https://pe.sailor-online.com/en/character/94893-wheezy"
+            },
+            {
+                "name": "Asahy",
+                "url": "https://pe.sailor-online.com/en/character/33944-asahy"
+            },
+            {
+                "name": "ThePKTZL",
+                "url": "https://pe.sailor-online.com/en/character/11877-thepktzl"
+            },
+            {
+                "name": "Cedric",
+                "url": "https://pe.sailor-online.com/en/character/22091-cedric"
+            },
+            {
+                "name": "HolyMoly",
+                "url": "https://pe.sailor-online.com/en/character/5246-thesayko"
+            },
+            {
+                "name": "HyperioN",
+                "url": "https://pe.sailor-online.com/en/character/55500-hyperion"
             }
         ]
     }
