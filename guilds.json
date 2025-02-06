@@ -1,0 +1,200 @@
+[
+    {
+        "guild": "000gang",
+        "characters": [
+            {
+                "name": "Evolex",
+                "url": "https://pe.sailor-online.com/en/character/77360-evolex"
+            },
+            {
+                "name": "Profeta",
+                "url": "https://pe.sailor-online.com/en/character/45901-profeta"
+            },
+            {
+                "name": "Jaycee",
+                "url": "https://pe.sailor-online.com/en/character/69285-beasty"
+            },
+            {
+                "name": "amD",
+                "url": "https://pe.sailor-online.com/en/character/72517-light"
+            },
+            {
+                "name": "Kralness",
+                "url": "https://pe.sailor-online.com/en/character/49853-andistart"
+            },
+            {
+                "name": "Joyboy",
+                "url": "https://pe.sailor-online.com/en/character/18687-joyboy"
+            },
+            {
+                "name": "Ares",
+                "url": "https://pe.sailor-online.com/en/character/30999-xp"
+            },
+            {
+                "name": "JCR",
+                "url": "https://pe.sailor-online.com/en/character/93251-jcr"
+            },
+            {
+                "name": "HeadHunter",
+                "url": "https://pe.sailor-online.com/en/character/39694-headhunter"
+            },
+            {
+                "name": "Myth",
+                "url": "https://pe.sailor-online.com/en/character/78519-potato"
+            },
+            {
+                "name": "Nachal",
+                "url": "https://pe.sailor-online.com/en/character/14955-nachal"
+            },
+            {
+                "name": "Savage",
+                "url": "https://pe.sailor-online.com/en/character/96534-savage"
+            },
+            {
+                "name": "CynalighT",
+                "url": "https://pe.sailor-online.com/en/character/70002-cynalight"
+            },
+            {
+                "name": "ProfetaJr",
+                "url": "https://pe.sailor-online.com/en/character/58505-dripped1337"
+            },
+            {
+                "name": "Tyr",
+                "url": "https://pe.sailor-online.com/en/character/64722-tyr"
+            },
+            {
+                "name": "FTP",
+                "url": "https://pe.sailor-online.com/en/character/63294-ftp"
+            },
+            {
+                "name": "Feanor",
+                "url": "https://pe.sailor-online.com/en/character/67301-feanor"
+            },
+            {
+                "name": "ExcQuix",
+                "url": "https://pe.sailor-online.com/en/character/64259-excquix"
+            },
+            {
+                "name": "Skye",
+                "url": "https://pe.sailor-online.com/en/character/42732-skye"
+            },
+            {
+                "name": "Shadow",
+                "url": "https://pe.sailor-online.com/en/character/22842-shadow"
+            },
+            {
+                "name": "Marvelous",
+                "url": "https://pe.sailor-online.com/en/character/61603-arthurdayne"
+            },
+            {
+                "name": "Pi",
+                "url": "https://pe.sailor-online.com/en/character/99386-pi"
+            },
+            {
+                "name": "Rude",
+                "url": "https://pe.sailor-online.com/en/character/88477-rude"
+            },
+            {
+                "name": "Potato",
+                "url": "https://pe.sailor-online.com/en/character/43603-gizee"
+            }
+        ]
+    },
+    {
+        "guild": "000ganq",
+        "characters": [
+            {
+                "name": "IGoDoFWaRI",
+                "url": "https://pe.sailor-online.com/en/character/67376-igodofwari"
+            },
+            {
+                "name": "Venom",
+                "url": "https://pe.sailor-online.com/en/character/9228-venom"
+            },
+            {
+                "name": "iSmoke2Much",
+                "url": "https://pe.sailor-online.com/en/character/33185-ismoke2much"
+            },
+            {
+                "name": "NaDer",
+                "url": "https://pe.sailor-online.com/en/character/42182-nader"
+            },
+            {
+                "name": "Avril",
+                "url": "https://pe.sailor-online.com/en/character/49648-levin"
+            },
+            {
+                "name": "Galli",
+                "url": "https://pe.sailor-online.com/en/character/38350-galli"
+            },
+            {
+                "name": "RiseAboveYou",
+                "url": "https://pe.sailor-online.com/en/character/27036-riseaboveyou"
+            },
+            {
+                "name": "Sy3oo",
+                "url": "https://pe.sailor-online.com/en/character/58948-sy3oo"
+            },
+            {
+                "name": "TexaS",
+                "url": "https://pe.sailor-online.com/en/character/1960-texas"
+            },
+            {
+                "name": "Underrated",
+                "url": "https://pe.sailor-online.com/en/character/40642-underrated"
+            },
+            {
+                "name": "Two",
+                "url": "https://pe.sailor-online.com/en/character/28975-two"
+            },
+            {
+                "name": "Tigab",
+                "url": "https://pe.sailor-online.com/en/character/44573-godmachine"
+            },
+            {
+                "name": "ZLATAN",
+                "url": "https://pe.sailor-online.com/en/character/7815-zlatan"
+            },
+            {
+                "name": "Allegra",
+                "url": "https://pe.sailor-online.com/en/character/8072-allegra"
+            },
+            {
+                "name": "Vainguard",
+                "url": "https://pe.sailor-online.com/en/character/49-vainguard"
+            },
+            {
+                "name": "Draval",
+                "url": "https://pe.sailor-online.com/en/character/65082-draval"
+            },
+            {
+                "name": "Almighty",
+                "url": "https://pe.sailor-online.com/en/character/58662-cheech"
+            },
+            {
+                "name": "Auisan",
+                "url": "https://pe.sailor-online.com/en/character/44717-auisan"
+            },
+            {
+                "name": "Teutonia",
+                "url": "https://pe.sailor-online.com/en/character/56944-teutonia"
+            },
+            {
+                "name": "Momoshiki",
+                "url": "https://pe.sailor-online.com/en/character/85902-ugotcooties"
+            },
+            {
+                "name": "DarkOmize",
+                "url": "https://pe.sailor-online.com/en/character/79862-darkomize"
+            },
+            {
+                "name": "AgemoNornehs",
+                "url": "https://pe.sailor-online.com/en/character/26023-haaland"
+            },
+            {
+                "name": "iDeaTh_MyTh",
+                "url": "https://pe.sailor-online.com/en/character/66963-ideath-myth"
+            }
+        ]
+    }
+]
