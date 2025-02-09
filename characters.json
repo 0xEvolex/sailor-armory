@@ -22,8 +22,8 @@
         "Total HP Devil": 109984,
         "Base MP": 24004,
         "Total MP": 25704,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "39%",
         "Build": "Bard"
     },
     {
@@ -49,8 +49,8 @@
         "Total HP Devil": 72544,
         "Base MP": 73178,
         "Total MP": 75028,
-        "Phy. Bal.": 97,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "97%",
+        "Mag. Bal.": "119%",
         "Build": "Spear"
     },
     {
@@ -76,8 +76,8 @@
         "Total HP Devil": 43807,
         "Base MP": 75975,
         "Total MP": 77525,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -103,8 +103,8 @@
         "Total HP Devil": 59697,
         "Base MP": 75742,
         "Total MP": 80792,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -130,9 +130,36 @@
         "Total HP Devil": 55393,
         "Base MP": 74576,
         "Total MP": 74576,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
+    },
+    {
+        "Name": "Evolex",
+        "IP": "1932",
+        "Base STR": 516,
+        "Base INT": 144,
+        "Freeze Resist": "60%",
+        "Poison Resist": "40%",
+        "Electric Resist": "40%",
+        "Burn Resist": "0%",
+        "Zombie Resist": "45%",
+        "Wheel STR": 216,
+        "Wheel INT": 113,
+        "Wheel HP": 2550,
+        "Wheel MP": 0,
+        "Total STR": 732,
+        "Total INT": 257,
+        "Set": "Garment",
+        "Stat": "STR",
+        "Base HP": 85297,
+        "Total HP": 87847,
+        "Total HP Devil": 107173,
+        "Base MP": 29947,
+        "Total MP": 29947,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "49%",
+        "Build": "Bow"
     },
     {
         "Name": "ExcQuix",
@@ -157,8 +184,8 @@
         "Total HP Devil": 45086,
         "Base MP": 75625,
         "Total MP": 77925,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -184,8 +211,8 @@
         "Total HP Devil": 52405,
         "Base MP": 72712,
         "Total MP": 78062,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -211,8 +238,8 @@
         "Total HP Devil": 69074,
         "Base MP": 79354,
         "Total MP": 80204,
-        "Phy. Bal.": 92,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "92%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -238,8 +265,8 @@
         "Total HP Devil": 65548,
         "Base MP": 79820,
         "Total MP": 82120,
-        "Phy. Bal.": 82,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "82%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -265,8 +292,8 @@
         "Total HP Devil": 74398,
         "Base MP": 77023,
         "Total MP": 79573,
-        "Phy. Bal.": 94,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "94%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -292,8 +319,8 @@
         "Total HP Devil": 122632,
         "Base MP": 31345,
         "Total MP": 34745,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 51,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "51%",
         "Build": "Warrior"
     },
     {
@@ -319,8 +346,8 @@
         "Total HP Devil": 118489,
         "Base MP": 23888,
         "Total MP": 27038,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "39%",
         "Build": "Warrior"
     },
     {
@@ -346,8 +373,8 @@
         "Total HP Devil": 113813,
         "Base MP": 29947,
         "Total MP": 30347,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 49,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "49%",
         "Build": "Warrior"
     },
     {
@@ -373,8 +400,8 @@
         "Total HP Devil": 82595,
         "Base MP": 71314,
         "Total MP": 75714,
-        "Phy. Bal.": 107,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "107%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -400,8 +427,8 @@
         "Total HP Devil": 74649,
         "Base MP": 81917,
         "Total MP": 83617,
-        "Phy. Bal.": 89,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "89%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -427,8 +454,8 @@
         "Total HP Devil": 45940,
         "Base MP": 77256,
         "Total MP": 81056,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -454,8 +481,8 @@
         "Total HP Devil": 52704,
         "Base MP": 69216,
         "Total MP": 75216,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "112%",
         "Build": "Spear"
     },
     {
@@ -481,8 +508,8 @@
         "Total HP Devil": 101761,
         "Base MP": 29015,
         "Total MP": 30715,
-        "Phy. Bal.": 113,
-        "Mag. Bal.": 47,
+        "Phy. Bal.": "113%",
+        "Mag. Bal.": "47%",
         "Build": "Rogue"
     },
     {
@@ -508,8 +535,8 @@
         "Total HP Devil": 67822,
         "Base MP": 85413,
         "Total MP": 85413,
-        "Phy. Bal.": 85,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "85%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -535,8 +562,8 @@
         "Total HP Devil": 59160,
         "Base MP": 68983,
         "Total MP": 69833,
-        "Phy. Bal.": 85,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "85%",
+        "Mag. Bal.": "112%",
         "Build": "Spear"
     },
     {
@@ -562,8 +589,8 @@
         "Total HP Devil": 67226,
         "Base MP": 71081,
         "Total MP": 71481,
-        "Phy. Bal.": 90,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "90%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -589,8 +616,8 @@
         "Total HP Devil": 48988,
         "Base MP": 78538,
         "Total MP": 80238,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -616,8 +643,8 @@
         "Total HP Devil": 101794,
         "Base MP": 23771,
         "Total MP": 24371,
-        "Phy. Bal.": 119,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "119%",
+        "Mag. Bal.": "39%",
         "Build": "Bard"
     },
     {
@@ -643,8 +670,8 @@
         "Total HP Devil": 101951,
         "Base MP": 27150,
         "Total MP": 29450,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Warrior"
     },
     {
@@ -670,8 +697,8 @@
         "Total HP Devil": 101428,
         "Base MP": 32744,
         "Total MP": 33244,
-        "Phy. Bal.": 119,
-        "Mag. Bal.": 53,
+        "Phy. Bal.": "119%",
+        "Mag. Bal.": "53%",
         "Build": "Rogue"
     },
     {
@@ -697,8 +724,8 @@
         "Total HP Devil": 40294,
         "Base MP": 77490,
         "Total MP": 78140,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -724,8 +751,8 @@
         "Total HP Devil": 39705,
         "Base MP": 81335,
         "Total MP": 84785,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -751,8 +778,8 @@
         "Total HP Devil": 42549,
         "Base MP": 73877,
         "Total MP": 75577,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -778,8 +805,8 @@
         "Total HP Devil": 37088,
         "Base MP": 67701,
         "Total MP": 69001,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 110,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "110%",
         "Build": "Wizard"
     },
     {
@@ -805,8 +832,8 @@
         "Total HP Devil": 108252,
         "Base MP": 25869,
         "Total MP": 29519,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 42,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "42%",
         "Build": "Warrior"
     },
     {
@@ -832,8 +859,8 @@
         "Total HP Devil": 49323,
         "Base MP": 74227,
         "Total MP": 76327,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -859,8 +886,8 @@
         "Total HP Devil": 51956,
         "Base MP": 79121,
         "Total MP": 79521,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -886,8 +913,8 @@
         "Total HP Devil": 41188,
         "Base MP": 76557,
         "Total MP": 78857,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -913,8 +940,8 @@
         "Total HP Devil": 97749,
         "Base MP": 24237,
         "Total MP": 24237,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "39%",
         "Build": "Rogue"
     },
     {
@@ -940,8 +967,8 @@
         "Total HP Devil": 55327,
         "Base MP": 74809,
         "Total MP": 76009,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -967,8 +994,8 @@
         "Total HP Devil": 55900,
         "Base MP": 77839,
         "Total MP": 81339,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -994,8 +1021,8 @@
         "Total HP Devil": 51915,
         "Base MP": 73644,
         "Total MP": 75594,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -1021,8 +1048,8 @@
         "Total HP Devil": 99096,
         "Base MP": 26568,
         "Total MP": 28268,
-        "Phy. Bal.": 115,
-        "Mag. Bal.": 43,
+        "Phy. Bal.": "115%",
+        "Mag. Bal.": "43%",
         "Build": "Warrior"
     },
     {
@@ -1048,8 +1075,8 @@
         "Total HP Devil": 42754,
         "Base MP": 79704,
         "Total MP": 81254,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -1075,8 +1102,8 @@
         "Total HP Devil": 105082,
         "Base MP": 29831,
         "Total MP": 31531,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "48%",
         "Build": "Bow"
     },
     {
@@ -1102,8 +1129,8 @@
         "Total HP Devil": 108675,
         "Base MP": 26917,
         "Total MP": 30217,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "N/A"
     },
     {
@@ -1129,8 +1156,8 @@
         "Total HP Devil": 102420,
         "Base MP": 24237,
         "Total MP": 25937,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "39%",
         "Build": "Rogue"
     },
     {
@@ -1156,8 +1183,8 @@
         "Total HP Devil": 53052,
         "Base MP": 78655,
         "Total MP": 79755,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -1183,8 +1210,8 @@
         "Total HP Devil": 39177,
         "Base MP": 74809,
         "Total MP": 76259,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -1210,8 +1237,8 @@
         "Total HP Devil": 47795,
         "Base MP": 76208,
         "Total MP": 80058,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -1237,8 +1264,8 @@
         "Total HP Devil": 67405,
         "Base MP": 65720,
         "Total MP": 65720,
-        "Phy. Bal.": 93,
-        "Mag. Bal.": 107,
+        "Phy. Bal.": "93%",
+        "Mag. Bal.": "107%",
         "Build": "Warlock"
     },
     {
@@ -1264,8 +1291,8 @@
         "Total HP Devil": 102728,
         "Base MP": 23771,
         "Total MP": 24171,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "39%",
         "Build": "Bow"
     },
     {
@@ -1291,8 +1318,8 @@
         "Total HP Devil": 55676,
         "Base MP": 72479,
         "Total MP": 72729,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -1318,8 +1345,8 @@
         "Total HP Devil": 43040,
         "Base MP": 79937,
         "Total MP": 82887,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -1345,8 +1372,8 @@
         "Total HP Devil": 40681,
         "Base MP": 75742,
         "Total MP": 77692,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -1372,8 +1399,8 @@
         "Total HP Devil": 52566,
         "Base MP": 75858,
         "Total MP": 78958,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -1399,8 +1426,8 @@
         "Total HP Devil": 39401,
         "Base MP": 68284,
         "Total MP": 73184,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 111,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "111%",
         "Build": "Wizard"
     },
     {
@@ -1426,8 +1453,8 @@
         "Total HP Devil": 100391,
         "Base MP": 22839,
         "Total MP": 25389,
-        "Phy. Bal.": 119,
-        "Mag. Bal.": 37,
+        "Phy. Bal.": "119%",
+        "Mag. Bal.": "37%",
         "Build": "Bow"
     },
     {
@@ -1453,8 +1480,8 @@
         "Total HP Devil": 37898,
         "Base MP": 71663,
         "Total MP": 72913,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -1480,8 +1507,8 @@
         "Total HP Devil": 43125,
         "Base MP": 69100,
         "Total MP": 74050,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "112%",
         "Build": "Spear"
     },
     {
@@ -1507,8 +1534,8 @@
         "Total HP Devil": 36480,
         "Base MP": 63623,
         "Total MP": 67623,
-        "Phy. Bal.": 62,
-        "Mag. Bal.": 103,
+        "Phy. Bal.": "62%",
+        "Mag. Bal.": "103%",
         "Build": "Wizard"
     },
     {
@@ -1534,8 +1561,8 @@
         "Total HP Devil": 107111,
         "Base MP": 26801,
         "Total MP": 28951,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Bow"
     },
     {
@@ -1561,8 +1588,8 @@
         "Total HP Devil": 91881,
         "Base MP": 30297,
         "Total MP": 32697,
-        "Phy. Bal.": 112,
-        "Mag. Bal.": 49,
+        "Phy. Bal.": "112%",
+        "Mag. Bal.": "49%",
         "Build": "Bow"
     },
     {
@@ -1588,8 +1615,8 @@
         "Total HP Devil": 109529,
         "Base MP": 27384,
         "Total MP": 29434,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 45,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "45%",
         "Build": "Warrior"
     },
     {
@@ -1615,8 +1642,8 @@
         "Total HP Devil": 40764,
         "Base MP": 70381,
         "Total MP": 72931,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 114,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "114%",
         "Build": "Wizard"
     },
     {
@@ -1642,8 +1669,8 @@
         "Total HP Devil": 84978,
         "Base MP": 27733,
         "Total MP": 30883,
-        "Phy. Bal.": 104,
-        "Mag. Bal.": 45,
+        "Phy. Bal.": "104%",
+        "Mag. Bal.": "45%",
         "Build": "Bow"
     },
     {
@@ -1669,8 +1696,8 @@
         "Total HP Devil": 102036,
         "Base MP": 25403,
         "Total MP": 29653,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "N/A"
     },
     {
@@ -1696,8 +1723,8 @@
         "Total HP Devil": 50069,
         "Base MP": 72362,
         "Total MP": 74062,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "118%",
         "Build": "Spear"
     },
     {
@@ -1723,8 +1750,8 @@
         "Total HP Devil": 37417,
         "Base MP": 67119,
         "Total MP": 68819,
-        "Phy. Bal.": 60,
-        "Mag. Bal.": 109,
+        "Phy. Bal.": "60%",
+        "Mag. Bal.": "109%",
         "Build": "Wizard"
     },
     {
@@ -1750,8 +1777,8 @@
         "Total HP Devil": 87231,
         "Base MP": 24820,
         "Total MP": 27720,
-        "Phy. Bal.": 107,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "107%",
+        "Mag. Bal.": "40%",
         "Build": "Bow"
     },
     {
@@ -1777,8 +1804,8 @@
         "Total HP Devil": 35136,
         "Base MP": 68634,
         "Total MP": 72984,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "112%",
         "Build": "Wizard"
     },
     {
@@ -1804,8 +1831,8 @@
         "Total HP Devil": 38267,
         "Base MP": 74227,
         "Total MP": 77877,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -1831,8 +1858,8 @@
         "Total HP Devil": 37924,
         "Base MP": 69216,
         "Total MP": 74316,
-        "Phy. Bal.": 61,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "61%",
+        "Mag. Bal.": "112%",
         "Build": "N/A"
     },
     {
@@ -1858,8 +1885,8 @@
         "Total HP Devil": 97344,
         "Base MP": 24354,
         "Total MP": 27754,
-        "Phy. Bal.": 117,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "117%",
+        "Mag. Bal.": "40%",
         "Build": "Bow"
     },
     {
@@ -1885,8 +1912,8 @@
         "Total HP Devil": 99015,
         "Base MP": 28199,
         "Total MP": 33249,
-        "Phy. Bal.": 114,
-        "Mag. Bal.": 46,
+        "Phy. Bal.": "114%",
+        "Mag. Bal.": "46%",
         "Build": "Warrior"
     },
     {
@@ -1912,8 +1939,8 @@
         "Total HP Devil": 89792,
         "Base MP": 21674,
         "Total MP": 23374,
-        "Phy. Bal.": 108,
-        "Mag. Bal.": 35,
+        "Phy. Bal.": "108%",
+        "Mag. Bal.": "35%",
         "Build": "Bard"
     },
     {
@@ -1939,8 +1966,8 @@
         "Total HP Devil": 40216,
         "Base MP": 69333,
         "Total MP": 69733,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "113%",
         "Build": "Spear"
     },
     {
@@ -1966,8 +1993,8 @@
         "Total HP Devil": 42189,
         "Base MP": 71547,
         "Total MP": 76647,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -1993,8 +2020,8 @@
         "Total HP Devil": 92405,
         "Base MP": 26451,
         "Total MP": 29001,
-        "Phy. Bal.": 115,
-        "Mag. Bal.": 43,
+        "Phy. Bal.": "115%",
+        "Mag. Bal.": "43%",
         "Build": "Warrior"
     },
     {
@@ -2020,8 +2047,8 @@
         "Total HP Devil": 48885,
         "Base MP": 77723,
         "Total MP": 79423,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2047,8 +2074,8 @@
         "Total HP Devil": 43448,
         "Base MP": 72479,
         "Total MP": 73279,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -2074,8 +2101,8 @@
         "Total HP Devil": 42447,
         "Base MP": 71780,
         "Total MP": 72880,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "117%",
         "Build": "Spear"
     },
     {
@@ -2101,8 +2128,8 @@
         "Total HP Devil": 100633,
         "Base MP": 35191,
         "Total MP": 38591,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 57,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "57%",
         "Build": "Warrior"
     },
     {
@@ -2128,8 +2155,8 @@
         "Total HP Devil": 47957,
         "Base MP": 69566,
         "Total MP": 72566,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "113%",
         "Build": "Wizard"
     },
     {
@@ -2155,8 +2182,8 @@
         "Total HP Devil": 45096,
         "Base MP": 66653,
         "Total MP": 67503,
-        "Phy. Bal.": 66,
-        "Mag. Bal.": 108,
+        "Phy. Bal.": "66%",
+        "Mag. Bal.": "108%",
         "Build": "Wizard"
     },
     {
@@ -2182,8 +2209,8 @@
         "Total HP Devil": 107317,
         "Base MP": 26801,
         "Total MP": 30401,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Warrior"
     },
     {
@@ -2209,8 +2236,8 @@
         "Total HP Devil": 43100,
         "Base MP": 70032,
         "Total MP": 80032,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 114,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "114%",
         "Build": "Wizard"
     },
     {
@@ -2236,8 +2263,8 @@
         "Total HP Devil": 100025,
         "Base MP": 31345,
         "Total MP": 31945,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 51,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "51%",
         "Build": "Bow"
     },
     {
@@ -2263,8 +2290,8 @@
         "Total HP Devil": 42273,
         "Base MP": 72712,
         "Total MP": 80162,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -2290,8 +2317,8 @@
         "Total HP Devil": 54704,
         "Base MP": 73644,
         "Total MP": 78544,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -2317,8 +2344,8 @@
         "Total HP Devil": 59651,
         "Base MP": 66187,
         "Total MP": 66837,
-        "Phy. Bal.": 83,
-        "Mag. Bal.": 108,
+        "Phy. Bal.": "83%",
+        "Mag. Bal.": "108%",
         "Build": "Bard"
     },
     {
@@ -2344,8 +2371,8 @@
         "Total HP Devil": 109996,
         "Base MP": 29248,
         "Total MP": 30548,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "48%",
         "Build": "Bow"
     },
     {
@@ -2371,8 +2398,8 @@
         "Total HP Devil": 49194,
         "Base MP": 68983,
         "Total MP": 71533,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "112%",
         "Build": "Wizard"
     },
     {
@@ -2398,8 +2425,8 @@
         "Total HP Devil": 39711,
         "Base MP": 72013,
         "Total MP": 75913,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "117%",
         "Build": "Wizard"
     },
     {
@@ -2425,8 +2452,8 @@
         "Total HP Devil": 52791,
         "Base MP": 66769,
         "Total MP": 68669,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 109,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "109%",
         "Build": "Warlock"
     },
     {
@@ -2452,8 +2479,8 @@
         "Total HP Devil": 108027,
         "Base MP": 24820,
         "Total MP": 26520,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "40%",
         "Build": "Bow"
     },
     {
@@ -2479,8 +2506,8 @@
         "Total HP Devil": 44582,
         "Base MP": 76441,
         "Total MP": 78541,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -2506,8 +2533,8 @@
         "Total HP Devil": 96634,
         "Base MP": 31578,
         "Total MP": 33028,
-        "Phy. Bal.": 116,
-        "Mag. Bal.": 51,
+        "Phy. Bal.": "116%",
+        "Mag. Bal.": "51%",
         "Build": "Warrior"
     },
     {
@@ -2533,8 +2560,8 @@
         "Total HP Devil": 38796,
         "Base MP": 75042,
         "Total MP": 80592,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2560,8 +2587,8 @@
         "Total HP Devil": 47729,
         "Base MP": 77956,
         "Total MP": 79856,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -2587,8 +2614,8 @@
         "Total HP Devil": 51356,
         "Base MP": 73295,
         "Total MP": 81745,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "119%",
         "Build": "Spear"
     },
     {
@@ -2614,8 +2641,8 @@
         "Total HP Devil": 41397,
         "Base MP": 77023,
         "Total MP": 77423,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -2641,8 +2668,8 @@
         "Total HP Devil": 93345,
         "Base MP": 29481,
         "Total MP": 31181,
-        "Phy. Bal.": 112,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "112%",
+        "Mag. Bal.": "48%",
         "Build": "N/A"
     },
     {
@@ -2668,8 +2695,8 @@
         "Total HP Devil": 98133,
         "Base MP": 27034,
         "Total MP": 27284,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "N/A"
     },
     {
@@ -2695,8 +2722,8 @@
         "Total HP Devil": 55265,
         "Base MP": 75392,
         "Total MP": 77092,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2722,8 +2749,8 @@
         "Total HP Devil": 59729,
         "Base MP": 80519,
         "Total MP": 81819,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -2749,8 +2776,8 @@
         "Total HP Devil": 47487,
         "Base MP": 74809,
         "Total MP": 75659,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -2776,8 +2803,8 @@
         "Total HP Devil": 105510,
         "Base MP": 25403,
         "Total MP": 25653,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "Warrior"
     },
     {
@@ -2803,8 +2830,8 @@
         "Total HP Devil": 47546,
         "Base MP": 70731,
         "Total MP": 74181,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "115%",
         "Build": "Wizard"
     },
     {
@@ -2830,8 +2857,8 @@
         "Total HP Devil": 49188,
         "Base MP": 69915,
         "Total MP": 72615,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 114,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "114%",
         "Build": "Wizard"
     },
     {
@@ -2857,8 +2884,8 @@
         "Total HP Devil": 56663,
         "Base MP": 74110,
         "Total MP": 78810,
-        "Phy. Bal.": 83,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "83%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2884,8 +2911,8 @@
         "Total HP Devil": 43159,
         "Base MP": 75975,
         "Total MP": 77825,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2911,8 +2938,8 @@
         "Total HP Devil": 43198,
         "Base MP": 75858,
         "Total MP": 78658,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -2938,8 +2965,8 @@
         "Total HP Devil": 47654,
         "Base MP": 74110,
         "Total MP": 74110,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -2965,8 +2992,8 @@
         "Total HP Devil": 41269,
         "Base MP": 77606,
         "Total MP": 79906,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -2992,8 +3019,8 @@
         "Total HP Devil": 101099,
         "Base MP": 28898,
         "Total MP": 30198,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 47,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "47%",
         "Build": "N/A"
     },
     {
@@ -3019,8 +3046,8 @@
         "Total HP Devil": 44944,
         "Base MP": 75392,
         "Total MP": 77692,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3046,8 +3073,8 @@
         "Total HP Devil": 105731,
         "Base MP": 26335,
         "Total MP": 26585,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 43,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "43%",
         "Build": "N/A"
     },
     {
@@ -3073,8 +3100,8 @@
         "Total HP Devil": 106931,
         "Base MP": 28432,
         "Total MP": 30082,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 46,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "46%",
         "Build": "N/A"
     },
     {
@@ -3100,8 +3127,8 @@
         "Total HP Devil": 46957,
         "Base MP": 79470,
         "Total MP": 80320,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -3127,8 +3154,8 @@
         "Total HP Devil": 108925,
         "Base MP": 23538,
         "Total MP": 24138,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 38,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "38%",
         "Build": "N/A"
     },
     {
@@ -3154,8 +3181,8 @@
         "Total HP Devil": 104714,
         "Base MP": 25752,
         "Total MP": 27902,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 42,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "42%",
         "Build": "Bard"
     },
     {
@@ -3181,8 +3208,8 @@
         "Total HP Devil": 48411,
         "Base MP": 75858,
         "Total MP": 79158,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3208,8 +3235,8 @@
         "Total HP Devil": 33550,
         "Base MP": 56631,
         "Total MP": 56631,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 92,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "92%",
         "Build": "Spear"
     },
     {
@@ -3235,8 +3262,8 @@
         "Total HP Devil": 113042,
         "Base MP": 24936,
         "Total MP": 26786,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "Bow"
     },
     {
@@ -3262,8 +3289,8 @@
         "Total HP Devil": 48626,
         "Base MP": 73528,
         "Total MP": 73778,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3289,8 +3316,8 @@
         "Total HP Devil": 87170,
         "Base MP": 25053,
         "Total MP": 28003,
-        "Phy. Bal.": 107,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "107%",
+        "Mag. Bal.": "41%",
         "Build": "Bard"
     },
     {
@@ -3316,8 +3343,8 @@
         "Total HP Devil": 53841,
         "Base MP": 77723,
         "Total MP": 77723,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3343,8 +3370,8 @@
         "Total HP Devil": 68408,
         "Base MP": 76674,
         "Total MP": 76674,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -3370,8 +3397,8 @@
         "Total HP Devil": 53009,
         "Base MP": 72246,
         "Total MP": 72846,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "117%",
         "Build": "Wizard"
     },
     {
@@ -3397,8 +3424,8 @@
         "Total HP Devil": 134257,
         "Base MP": 29597,
         "Total MP": 30897,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "48%",
         "Build": "N/A"
     },
     {
@@ -3424,8 +3451,8 @@
         "Total HP Devil": 48443,
         "Base MP": 71081,
         "Total MP": 74681,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -3451,8 +3478,8 @@
         "Total HP Devil": 60794,
         "Base MP": 69566,
         "Total MP": 73216,
-        "Phy. Bal.": 80,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "80%",
+        "Mag. Bal.": "113%",
         "Build": "Wizard"
     },
     {
@@ -3478,8 +3505,8 @@
         "Total HP Devil": 110796,
         "Base MP": 28083,
         "Total MP": 29383,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 46,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "46%",
         "Build": "Bard"
     },
     {
@@ -3505,8 +3532,8 @@
         "Total HP Devil": 116111,
         "Base MP": 34025,
         "Total MP": 35725,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 55,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "55%",
         "Build": "S/S"
     },
     {
@@ -3532,8 +3559,8 @@
         "Total HP Devil": 51976,
         "Base MP": 74227,
         "Total MP": 75927,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -3559,8 +3586,8 @@
         "Total HP Devil": 78461,
         "Base MP": 78771,
         "Total MP": 82171,
-        "Phy. Bal.": 97,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "97%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -3586,8 +3613,8 @@
         "Total HP Devil": 71864,
         "Base MP": 69682,
         "Total MP": 72232,
-        "Phy. Bal.": 88,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "88%",
+        "Mag. Bal.": "113%",
         "Build": "Wizard"
     },
     {
@@ -3613,8 +3640,8 @@
         "Total HP Devil": 49045,
         "Base MP": 77140,
         "Total MP": 79040,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -3640,8 +3667,8 @@
         "Total HP Devil": 47370,
         "Base MP": 79470,
         "Total MP": 79470,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -3667,8 +3694,8 @@
         "Total HP Devil": 50386,
         "Base MP": 78422,
         "Total MP": 82522,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -3694,8 +3721,8 @@
         "Total HP Devil": 104251,
         "Base MP": 27617,
         "Total MP": 28467,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 45,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "45%",
         "Build": "Bard"
     },
     {
@@ -3721,8 +3748,8 @@
         "Total HP Devil": 116944,
         "Base MP": 34142,
         "Total MP": 34142,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 55,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "55%",
         "Build": "N/A"
     },
     {
@@ -3748,8 +3775,8 @@
         "Total HP Devil": 123728,
         "Base MP": 27850,
         "Total MP": 27850,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 45,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "45%",
         "Build": "Warrior"
     },
     {
@@ -3775,8 +3802,8 @@
         "Total HP Devil": 47574,
         "Base MP": 74926,
         "Total MP": 80376,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3802,8 +3829,8 @@
         "Total HP Devil": 118128,
         "Base MP": 22722,
         "Total MP": 23122,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 37,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "37%",
         "Build": "Rogue"
     },
     {
@@ -3829,8 +3856,8 @@
         "Total HP Devil": 105569,
         "Base MP": 25403,
         "Total MP": 25403,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "Warrior"
     },
     {
@@ -3856,8 +3883,8 @@
         "Total HP Devil": 56568,
         "Base MP": 71430,
         "Total MP": 74830,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "116%",
         "Build": "S/S"
     },
     {
@@ -3883,8 +3910,8 @@
         "Total HP Devil": 59597,
         "Base MP": 73994,
         "Total MP": 74594,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3910,8 +3937,8 @@
         "Total HP Devil": 52095,
         "Base MP": 72945,
         "Total MP": 75045,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "119%",
         "Build": "Warlock"
     },
     {
@@ -3937,8 +3964,8 @@
         "Total HP Devil": 58697,
         "Base MP": 73877,
         "Total MP": 73877,
-        "Phy. Bal.": 83,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "83%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3964,8 +3991,8 @@
         "Total HP Devil": 47404,
         "Base MP": 75742,
         "Total MP": 77842,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -3991,8 +4018,8 @@
         "Total HP Devil": 23030,
         "Base MP": 62341,
         "Total MP": 62341,
-        "Phy. Bal.": 54,
-        "Mag. Bal.": 101,
+        "Phy. Bal.": "54%",
+        "Mag. Bal.": "101%",
         "Build": "Bow"
     },
     {
@@ -4018,8 +4045,8 @@
         "Total HP Devil": 47636,
         "Base MP": 71547,
         "Total MP": 72797,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "116%",
         "Build": "Spear"
     },
     {
@@ -4045,8 +4072,8 @@
         "Total HP Devil": 49683,
         "Base MP": 72362,
         "Total MP": 74962,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -4072,8 +4099,8 @@
         "Total HP Devil": 40094,
         "Base MP": 77373,
         "Total MP": 79073,
-        "Phy. Bal.": 66,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "66%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -4099,8 +4126,8 @@
         "Total HP Devil": 105424,
         "Base MP": 20275,
         "Total MP": 22425,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 33,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "33%",
         "Build": "Warrior"
     },
     {
@@ -4126,8 +4153,8 @@
         "Total HP Devil": 53440,
         "Base MP": 77606,
         "Total MP": 79556,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -4153,8 +4180,8 @@
         "Total HP Devil": 94462,
         "Base MP": 26684,
         "Total MP": 28534,
-        "Phy. Bal.": 113,
-        "Mag. Bal.": 43,
+        "Phy. Bal.": "113%",
+        "Mag. Bal.": "43%",
         "Build": "Bard"
     },
     {
@@ -4180,8 +4207,8 @@
         "Total HP Devil": 98499,
         "Base MP": 24470,
         "Total MP": 27470,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "40%",
         "Build": "Bard"
     },
     {
@@ -4207,8 +4234,8 @@
         "Total HP Devil": 57740,
         "Base MP": 73062,
         "Total MP": 76312,
-        "Phy. Bal.": 83,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "83%",
+        "Mag. Bal.": "119%",
         "Build": "Wizard"
     },
     {
@@ -4234,8 +4261,8 @@
         "Total HP Devil": 48318,
         "Base MP": 73528,
         "Total MP": 75228,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -4261,8 +4288,8 @@
         "Total HP Devil": 44235,
         "Base MP": 79354,
         "Total MP": 80454,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "120%",
         "Build": "Bow"
     },
     {
@@ -4288,8 +4315,8 @@
         "Total HP Devil": 44033,
         "Base MP": 76557,
         "Total MP": 81157,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -4315,8 +4342,8 @@
         "Total HP Devil": 50858,
         "Base MP": 73062,
         "Total MP": 74762,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "119%",
         "Build": "N/A"
     },
     {
@@ -4342,8 +4369,8 @@
         "Total HP Devil": 108534,
         "Base MP": 25403,
         "Total MP": 26903,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "N/A"
     },
     {
@@ -4369,8 +4396,8 @@
         "Total HP Devil": 41941,
         "Base MP": 75858,
         "Total MP": 76258,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -4396,8 +4423,8 @@
         "Total HP Devil": 55819,
         "Base MP": 74926,
         "Total MP": 77626,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -4423,8 +4450,8 @@
         "Total HP Devil": 98481,
         "Base MP": 33792,
         "Total MP": 34042,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 55,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "55%",
         "Build": "Bow"
     },
     {
@@ -4450,8 +4477,8 @@
         "Total HP Devil": 52135,
         "Base MP": 73877,
         "Total MP": 78077,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -4477,8 +4504,8 @@
         "Total HP Devil": 88631,
         "Base MP": 25985,
         "Total MP": 28985,
-        "Phy. Bal.": 110,
-        "Mag. Bal.": 42,
+        "Phy. Bal.": "110%",
+        "Mag. Bal.": "42%",
         "Build": "Warrior"
     },
     {
@@ -4504,8 +4531,8 @@
         "Total HP Devil": 41310,
         "Base MP": 85646,
         "Total MP": 87946,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -4531,8 +4558,8 @@
         "Total HP Devil": 112844,
         "Base MP": 25170,
         "Total MP": 29020,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "41%",
         "Build": "Warrior"
     },
     {
@@ -4558,8 +4585,8 @@
         "Total HP Devil": 56448,
         "Base MP": 72712,
         "Total MP": 74312,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -4585,8 +4612,8 @@
         "Total HP Devil": 63660,
         "Base MP": 70731,
         "Total MP": 73281,
-        "Phy. Bal.": 81,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "81%",
+        "Mag. Bal.": "115%",
         "Build": "Spear"
     },
     {
@@ -4612,8 +4639,8 @@
         "Total HP Devil": 97710,
         "Base MP": 33210,
         "Total MP": 34510,
-        "Phy. Bal.": 117,
-        "Mag. Bal.": 54,
+        "Phy. Bal.": "117%",
+        "Mag. Bal.": "54%",
         "Build": "N/A"
     },
     {
@@ -4639,8 +4666,8 @@
         "Total HP Devil": 64997,
         "Base MP": 56515,
         "Total MP": 60515,
-        "Phy. Bal.": 84,
-        "Mag. Bal.": 92,
+        "Phy. Bal.": "84%",
+        "Mag. Bal.": "92%",
         "Build": "Bow"
     },
     {
@@ -4666,8 +4693,8 @@
         "Total HP Devil": 43200,
         "Base MP": 70731,
         "Total MP": 77281,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "115%",
         "Build": "Spear"
     },
     {
@@ -4693,8 +4720,8 @@
         "Total HP Devil": 98344,
         "Base MP": 25403,
         "Total MP": 27203,
-        "Phy. Bal.": 114,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "114%",
+        "Mag. Bal.": "41%",
         "Build": "N/A"
     },
     {
@@ -4720,8 +4747,8 @@
         "Total HP Devil": 29411,
         "Base MP": 67468,
         "Total MP": 70068,
-        "Phy. Bal.": 57,
-        "Mag. Bal.": 110,
+        "Phy. Bal.": "57%",
+        "Mag. Bal.": "110%",
         "Build": "Spear"
     },
     {
@@ -4747,8 +4774,8 @@
         "Total HP Devil": 53751,
         "Base MP": 73062,
         "Total MP": 76912,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "119%",
         "Build": "Spear"
     },
     {
@@ -4774,8 +4801,8 @@
         "Total HP Devil": 52226,
         "Base MP": 73295,
         "Total MP": 75845,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "119%",
         "Build": "S/S"
     },
     {
@@ -4801,8 +4828,8 @@
         "Total HP Devil": 39709,
         "Base MP": 71780,
         "Total MP": 73230,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "117%",
         "Build": "Wizard"
     },
     {
@@ -4828,8 +4855,8 @@
         "Total HP Devil": 30849,
         "Base MP": 65487,
         "Total MP": 65487,
-        "Phy. Bal.": 61,
-        "Mag. Bal.": 106,
+        "Phy. Bal.": "61%",
+        "Mag. Bal.": "106%",
         "Build": "Wizard"
     },
     {
@@ -4855,8 +4882,8 @@
         "Total HP Devil": 38654,
         "Base MP": 72129,
         "Total MP": 76529,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "117%",
         "Build": "Wizard"
     },
     {
@@ -4882,8 +4909,8 @@
         "Total HP Devil": 43432,
         "Base MP": 71430,
         "Total MP": 72030,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "116%",
         "Build": "Wizard"
     },
     {
@@ -4909,8 +4936,8 @@
         "Total HP Devil": 34039,
         "Base MP": 64206,
         "Total MP": 66756,
-        "Phy. Bal.": 62,
-        "Mag. Bal.": 104,
+        "Phy. Bal.": "62%",
+        "Mag. Bal.": "104%",
         "Build": "Spear"
     },
     {
@@ -4936,8 +4963,8 @@
         "Total HP Devil": 107831,
         "Base MP": 26917,
         "Total MP": 28167,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Rogue"
     },
     {
@@ -4963,8 +4990,8 @@
         "Total HP Devil": 51227,
         "Base MP": 75742,
         "Total MP": 79392,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -4990,8 +5017,8 @@
         "Total HP Devil": 39488,
         "Base MP": 77023,
         "Total MP": 81323,
-        "Phy. Bal.": 63,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "63%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5017,8 +5044,8 @@
         "Total HP Devil": 94216,
         "Base MP": 33326,
         "Total MP": 34176,
-        "Phy. Bal.": 115,
-        "Mag. Bal.": 54,
+        "Phy. Bal.": "115%",
+        "Mag. Bal.": "54%",
         "Build": "Rogue"
     },
     {
@@ -5044,8 +5071,8 @@
         "Total HP Devil": 53769,
         "Base MP": 74926,
         "Total MP": 77476,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5071,8 +5098,8 @@
         "Total HP Devil": 47365,
         "Base MP": 73644,
         "Total MP": 78344,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5098,8 +5125,8 @@
         "Total HP Devil": 97912,
         "Base MP": 20509,
         "Total MP": 26309,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 33,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "33%",
         "Build": "Bow"
     },
     {
@@ -5125,8 +5152,8 @@
         "Total HP Devil": 71222,
         "Base MP": 19227,
         "Total MP": 19227,
-        "Phy. Bal.": 97,
-        "Mag. Bal.": 31,
+        "Phy. Bal.": "97%",
+        "Mag. Bal.": "31%",
         "Build": "Bow"
     },
     {
@@ -5152,8 +5179,8 @@
         "Total HP Devil": 97710,
         "Base MP": 33210,
         "Total MP": 34510,
-        "Phy. Bal.": 117,
-        "Mag. Bal.": 54,
+        "Phy. Bal.": "117%",
+        "Mag. Bal.": "54%",
         "Build": "N/A"
     },
     {
@@ -5179,8 +5206,8 @@
         "Total HP Devil": 100901,
         "Base MP": 23888,
         "Total MP": 31938,
-        "Phy. Bal.": 117,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "117%",
+        "Mag. Bal.": "39%",
         "Build": "Rogue"
     },
     {
@@ -5206,8 +5233,8 @@
         "Total HP Devil": 51050,
         "Base MP": 72129,
         "Total MP": 75979,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "117%",
         "Build": "Spear"
     },
     {
@@ -5233,8 +5260,8 @@
         "Total HP Devil": 59619,
         "Base MP": 77490,
         "Total MP": 79190,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -5260,8 +5287,8 @@
         "Total HP Devil": 54860,
         "Base MP": 72013,
         "Total MP": 75563,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "117%",
         "Build": "Warlock"
     },
     {
@@ -5287,8 +5314,8 @@
         "Total HP Devil": 104476,
         "Base MP": 28665,
         "Total MP": 32065,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 47,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "47%",
         "Build": "Warrior"
     },
     {
@@ -5314,8 +5341,8 @@
         "Total HP Devil": 108964,
         "Base MP": 30297,
         "Total MP": 32197,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 49,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "49%",
         "Build": "Warrior"
     },
     {
@@ -5341,8 +5368,8 @@
         "Total HP Devil": 50780,
         "Base MP": 75742,
         "Total MP": 76142,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5368,8 +5395,8 @@
         "Total HP Devil": 44158,
         "Base MP": 77140,
         "Total MP": 81990,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5395,8 +5422,8 @@
         "Total HP Devil": 56077,
         "Base MP": 77023,
         "Total MP": 78323,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5422,8 +5449,8 @@
         "Total HP Devil": 63296,
         "Base MP": 72362,
         "Total MP": 75162,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "118%",
         "Build": "Warlock"
     },
     {
@@ -5449,8 +5476,8 @@
         "Total HP Devil": 112985,
         "Base MP": 29015,
         "Total MP": 31165,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 47,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "47%",
         "Build": "N/A"
     },
     {
@@ -5476,8 +5503,8 @@
         "Total HP Devil": 129175,
         "Base MP": 39619,
         "Total MP": 39619,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 64,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "64%",
         "Build": "N/A"
     },
     {
@@ -5503,8 +5530,8 @@
         "Total HP Devil": 49865,
         "Base MP": 77023,
         "Total MP": 78723,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5530,8 +5557,8 @@
         "Total HP Devil": 104865,
         "Base MP": 28665,
         "Total MP": 31065,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 47,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "47%",
         "Build": "Warrior"
     },
     {
@@ -5557,8 +5584,8 @@
         "Total HP Devil": 108952,
         "Base MP": 24237,
         "Total MP": 25537,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "39%",
         "Build": "N/A"
     },
     {
@@ -5584,8 +5611,8 @@
         "Total HP Devil": 53642,
         "Base MP": 77373,
         "Total MP": 80773,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5611,8 +5638,8 @@
         "Total HP Devil": 43425,
         "Base MP": 78305,
         "Total MP": 80805,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5638,8 +5665,8 @@
         "Total HP Devil": 45131,
         "Base MP": 80286,
         "Total MP": 83036,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -5665,8 +5692,8 @@
         "Total HP Devil": 52382,
         "Base MP": 69799,
         "Total MP": 73199,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "113%",
         "Build": "S/S"
     },
     {
@@ -5692,8 +5719,8 @@
         "Total HP Devil": 50571,
         "Base MP": 71780,
         "Total MP": 73480,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "117%",
         "Build": "Spear"
     },
     {
@@ -5719,8 +5746,8 @@
         "Total HP Devil": 102711,
         "Base MP": 32627,
         "Total MP": 33927,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 53,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "53%",
         "Build": "Rogue"
     },
     {
@@ -5746,8 +5773,8 @@
         "Total HP Devil": 104714,
         "Base MP": 27966,
         "Total MP": 29866,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 45,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "45%",
         "Build": "Bow"
     },
     {
@@ -5773,8 +5800,8 @@
         "Total HP Devil": 53152,
         "Base MP": 75042,
         "Total MP": 76742,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5800,8 +5827,8 @@
         "Total HP Devil": 116477,
         "Base MP": 32278,
         "Total MP": 32528,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 52,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "52%",
         "Build": "N/A"
     },
     {
@@ -5827,8 +5854,8 @@
         "Total HP Devil": 79897,
         "Base MP": 21674,
         "Total MP": 26024,
-        "Phy. Bal.": 103,
-        "Mag. Bal.": 35,
+        "Phy. Bal.": "103%",
+        "Mag. Bal.": "35%",
         "Build": "Bow"
     },
     {
@@ -5854,8 +5881,8 @@
         "Total HP Devil": 36317,
         "Base MP": 67468,
         "Total MP": 70918,
-        "Phy. Bal.": 62,
-        "Mag. Bal.": 110,
+        "Phy. Bal.": "62%",
+        "Mag. Bal.": "110%",
         "Build": "Wizard"
     },
     {
@@ -5881,8 +5908,8 @@
         "Total HP Devil": 33147,
         "Base MP": 73528,
         "Total MP": 76528,
-        "Phy. Bal.": 60,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "60%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -5908,8 +5935,8 @@
         "Total HP Devil": 41679,
         "Base MP": 68750,
         "Total MP": 69600,
-        "Phy. Bal.": 67,
-        "Mag. Bal.": 112,
+        "Phy. Bal.": "67%",
+        "Mag. Bal.": "112%",
         "Build": "S/S"
     },
     {
@@ -5935,8 +5962,8 @@
         "Total HP Devil": 115774,
         "Base MP": 37754,
         "Total MP": 37754,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 61,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "61%",
         "Build": "Bow"
     },
     {
@@ -5962,8 +5989,8 @@
         "Total HP Devil": 50634,
         "Base MP": 66187,
         "Total MP": 66787,
-        "Phy. Bal.": 76,
-        "Mag. Bal.": 108,
+        "Phy. Bal.": "76%",
+        "Mag. Bal.": "108%",
         "Build": "Wizard"
     },
     {
@@ -5989,8 +6016,8 @@
         "Total HP Devil": 83818,
         "Base MP": 24703,
         "Total MP": 27003,
-        "Phy. Bal.": 105,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "105%",
+        "Mag. Bal.": "40%",
         "Build": "Bard"
     },
     {
@@ -6016,8 +6043,8 @@
         "Total HP Devil": 109942,
         "Base MP": 26917,
         "Total MP": 29417,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Warrior"
     },
     {
@@ -6043,8 +6070,8 @@
         "Total HP Devil": 93568,
         "Base MP": 22956,
         "Total MP": 24406,
-        "Phy. Bal.": 113,
-        "Mag. Bal.": 37,
+        "Phy. Bal.": "113%",
+        "Mag. Bal.": "37%",
         "Build": "Bow"
     },
     {
@@ -6070,8 +6097,8 @@
         "Total HP Devil": 36155,
         "Base MP": 72013,
         "Total MP": 77513,
-        "Phy. Bal.": 61,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "61%",
+        "Mag. Bal.": "117%",
         "Build": "Spear"
     },
     {
@@ -6097,8 +6124,8 @@
         "Total HP Devil": 102769,
         "Base MP": 31345,
         "Total MP": 34145,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 51,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "51%",
         "Build": "Bard"
     },
     {
@@ -6124,8 +6151,8 @@
         "Total HP Devil": 42432,
         "Base MP": 73994,
         "Total MP": 78494,
-        "Phy. Bal.": 66,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "66%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6151,8 +6178,8 @@
         "Total HP Devil": 45576,
         "Base MP": 66886,
         "Total MP": 68436,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 109,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "109%",
         "Build": "Spear"
     },
     {
@@ -6178,8 +6205,8 @@
         "Total HP Devil": 52442,
         "Base MP": 74460,
         "Total MP": 76560,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -6205,8 +6232,8 @@
         "Total HP Devil": 46408,
         "Base MP": 77023,
         "Total MP": 80423,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6232,8 +6259,8 @@
         "Total HP Devil": 48133,
         "Base MP": 74576,
         "Total MP": 77426,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -6259,8 +6286,8 @@
         "Total HP Devil": 36721,
         "Base MP": 69799,
         "Total MP": 70899,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 113,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "113%",
         "Build": "Warlock"
     },
     {
@@ -6286,8 +6313,8 @@
         "Total HP Devil": 93077,
         "Base MP": 23888,
         "Total MP": 23888,
-        "Phy. Bal.": 114,
-        "Mag. Bal.": 39,
+        "Phy. Bal.": "114%",
+        "Mag. Bal.": "39%",
         "Build": "Bow"
     },
     {
@@ -6313,8 +6340,8 @@
         "Total HP Devil": 52809,
         "Base MP": 75159,
         "Total MP": 77459,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Warlock"
     },
     {
@@ -6340,8 +6367,8 @@
         "Total HP Devil": 103108,
         "Base MP": 27034,
         "Total MP": 27834,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Warrior"
     },
     {
@@ -6367,8 +6394,8 @@
         "Total HP Devil": 40442,
         "Base MP": 70731,
         "Total MP": 72431,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "115%",
         "Build": "N/A"
     },
     {
@@ -6394,8 +6421,8 @@
         "Total HP Devil": 104738,
         "Base MP": 23189,
         "Total MP": 25789,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 38,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "38%",
         "Build": "Warrior"
     },
     {
@@ -6421,8 +6448,8 @@
         "Total HP Devil": 84672,
         "Base MP": 25170,
         "Total MP": 28170,
-        "Phy. Bal.": 106,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "106%",
+        "Mag. Bal.": "41%",
         "Build": "N/A"
     },
     {
@@ -6448,8 +6475,8 @@
         "Total HP Devil": 41026,
         "Base MP": 75159,
         "Total MP": 76859,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -6475,8 +6502,8 @@
         "Total HP Devil": 52898,
         "Base MP": 77723,
         "Total MP": 79823,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -6502,8 +6529,8 @@
         "Total HP Devil": 48052,
         "Base MP": 80286,
         "Total MP": 85986,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6529,8 +6556,8 @@
         "Total HP Devil": 54593,
         "Base MP": 75392,
         "Total MP": 75392,
-        "Phy. Bal.": 80,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "80%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6556,8 +6583,8 @@
         "Total HP Devil": 45438,
         "Base MP": 75276,
         "Total MP": 75676,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -6583,8 +6610,8 @@
         "Total HP Devil": 49985,
         "Base MP": 79121,
         "Total MP": 79971,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6610,8 +6637,8 @@
         "Total HP Devil": 50249,
         "Base MP": 75625,
         "Total MP": 76875,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -6637,8 +6664,8 @@
         "Total HP Devil": 44154,
         "Base MP": 78422,
         "Total MP": 82072,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -6664,8 +6691,8 @@
         "Total HP Devil": 51242,
         "Base MP": 74460,
         "Total MP": 75310,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -6691,8 +6718,8 @@
         "Total HP Devil": 109732,
         "Base MP": 29831,
         "Total MP": 29831,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "48%",
         "Build": "Bow"
     },
     {
@@ -6718,8 +6745,8 @@
         "Total HP Devil": 100698,
         "Base MP": 26218,
         "Total MP": 26218,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 43,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "43%",
         "Build": "Rogue"
     },
     {
@@ -6745,8 +6772,8 @@
         "Total HP Devil": 79456,
         "Base MP": 78305,
         "Total MP": 81705,
-        "Phy. Bal.": 98,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "98%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -6772,8 +6799,8 @@
         "Total HP Devil": 67050,
         "Base MP": 73877,
         "Total MP": 73877,
-        "Phy. Bal.": 85,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "85%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6799,8 +6826,8 @@
         "Total HP Devil": 44097,
         "Base MP": 72712,
         "Total MP": 76112,
-        "Phy. Bal.": 68,
-        "Mag. Bal.": 118,
+        "Phy. Bal.": "68%",
+        "Mag. Bal.": "118%",
         "Build": "Wizard"
     },
     {
@@ -6826,8 +6853,8 @@
         "Total HP Devil": 53737,
         "Base MP": 77023,
         "Total MP": 81323,
-        "Phy. Bal.": 81,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "81%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6853,8 +6880,8 @@
         "Total HP Devil": 50915,
         "Base MP": 77140,
         "Total MP": 77990,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "120%",
         "Build": "N/A"
     },
     {
@@ -6880,8 +6907,8 @@
         "Total HP Devil": 59875,
         "Base MP": 73178,
         "Total MP": 74878,
-        "Phy. Bal.": 83,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "83%",
+        "Mag. Bal.": "119%",
         "Build": "Spear"
     },
     {
@@ -6907,8 +6934,8 @@
         "Total HP Devil": 56283,
         "Base MP": 71663,
         "Total MP": 75063,
-        "Phy. Bal.": 78,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "78%",
+        "Mag. Bal.": "116%",
         "Build": "S/S"
     },
     {
@@ -6934,8 +6961,8 @@
         "Total HP Devil": 95377,
         "Base MP": 28083,
         "Total MP": 31883,
-        "Phy. Bal.": 112,
-        "Mag. Bal.": 46,
+        "Phy. Bal.": "112%",
+        "Mag. Bal.": "46%",
         "Build": "Rogue"
     },
     {
@@ -6961,8 +6988,8 @@
         "Total HP Devil": 51428,
         "Base MP": 76674,
         "Total MP": 79674,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -6988,8 +7015,8 @@
         "Total HP Devil": 98017,
         "Base MP": 25519,
         "Total MP": 27669,
-        "Phy. Bal.": 115,
-        "Mag. Bal.": 41,
+        "Phy. Bal.": "115%",
+        "Mag. Bal.": "41%",
         "Build": "Rogue"
     },
     {
@@ -7015,8 +7042,8 @@
         "Total HP Devil": 101304,
         "Base MP": 22023,
         "Total MP": 24923,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 36,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "36%",
         "Build": "Bow"
     },
     {
@@ -7042,8 +7069,8 @@
         "Total HP Devil": 96308,
         "Base MP": 29364,
         "Total MP": 29364,
-        "Phy. Bal.": 116,
-        "Mag. Bal.": 48,
+        "Phy. Bal.": "116%",
+        "Mag. Bal.": "48%",
         "Build": "Bard"
     },
     {
@@ -7069,8 +7096,8 @@
         "Total HP Devil": 53679,
         "Base MP": 73178,
         "Total MP": 76178,
-        "Phy. Bal.": 79,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "79%",
+        "Mag. Bal.": "119%",
         "Build": "Spear"
     },
     {
@@ -7096,8 +7123,8 @@
         "Total HP Devil": 48871,
         "Base MP": 73994,
         "Total MP": 79094,
-        "Phy. Bal.": 71,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "71%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -7123,8 +7150,8 @@
         "Total HP Devil": 56807,
         "Base MP": 77723,
         "Total MP": 79923,
-        "Phy. Bal.": 81,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "81%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -7150,8 +7177,8 @@
         "Total HP Devil": 61966,
         "Base MP": 70848,
         "Total MP": 71948,
-        "Phy. Bal.": 86,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "86%",
+        "Mag. Bal.": "115%",
         "Build": "S/S"
     },
     {
@@ -7177,8 +7204,8 @@
         "Total HP Devil": 49112,
         "Base MP": 77256,
         "Total MP": 78456,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -7204,8 +7231,8 @@
         "Total HP Devil": 39404,
         "Base MP": 77956,
         "Total MP": 78556,
-        "Phy. Bal.": 65,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "65%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -7231,8 +7258,8 @@
         "Total HP Devil": 46122,
         "Base MP": 71081,
         "Total MP": 73031,
-        "Phy. Bal.": 74,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "74%",
+        "Mag. Bal.": "116%",
         "Build": "Wizard"
     },
     {
@@ -7258,8 +7285,8 @@
         "Total HP Devil": 37009,
         "Base MP": 75159,
         "Total MP": 76859,
-        "Phy. Bal.": 62,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "62%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -7285,8 +7312,8 @@
         "Total HP Devil": 47685,
         "Base MP": 72013,
         "Total MP": 73713,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 117,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "117%",
         "Build": "Warlock"
     },
     {
@@ -7312,8 +7339,8 @@
         "Total HP Devil": 48239,
         "Base MP": 70964,
         "Total MP": 72514,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 115,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "115%",
         "Build": "Spear"
     },
     {
@@ -7339,8 +7366,8 @@
         "Total HP Devil": 58012,
         "Base MP": 77956,
         "Total MP": 82506,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -7366,8 +7393,8 @@
         "Total HP Devil": 33796,
         "Base MP": 75742,
         "Total MP": 76592,
-        "Phy. Bal.": 61,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "61%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -7393,8 +7420,8 @@
         "Total HP Devil": 64466,
         "Base MP": 33559,
         "Total MP": 37459,
-        "Phy. Bal.": 86,
-        "Mag. Bal.": 55,
+        "Phy. Bal.": "86%",
+        "Mag. Bal.": "55%",
         "Build": "Bard"
     },
     {
@@ -7420,8 +7447,8 @@
         "Total HP Devil": 42102,
         "Base MP": 75509,
         "Total MP": 77509,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -7447,8 +7474,8 @@
         "Total HP Devil": 44112,
         "Base MP": 80170,
         "Total MP": 81270,
-        "Phy. Bal.": 72,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "72%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -7474,8 +7501,8 @@
         "Total HP Devil": 40727,
         "Base MP": 67468,
         "Total MP": 68318,
-        "Phy. Bal.": 64,
-        "Mag. Bal.": 110,
+        "Phy. Bal.": "64%",
+        "Mag. Bal.": "110%",
         "Build": "Wizard"
     },
     {
@@ -7501,8 +7528,8 @@
         "Total HP Devil": 58089,
         "Base MP": 70381,
         "Total MP": 72481,
-        "Phy. Bal.": 81,
-        "Mag. Bal.": 114,
+        "Phy. Bal.": "81%",
+        "Mag. Bal.": "114%",
         "Build": "N/A"
     },
     {
@@ -7528,8 +7555,8 @@
         "Total HP Devil": 90201,
         "Base MP": 24820,
         "Total MP": 25220,
-        "Phy. Bal.": 106,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "106%",
+        "Mag. Bal.": "40%",
         "Build": "Warrior"
     },
     {
@@ -7555,8 +7582,8 @@
         "Total HP Devil": 99212,
         "Base MP": 28083,
         "Total MP": 28933,
-        "Phy. Bal.": 119,
-        "Mag. Bal.": 46,
+        "Phy. Bal.": "119%",
+        "Mag. Bal.": "46%",
         "Build": "Bard"
     },
     {
@@ -7582,8 +7609,8 @@
         "Total HP Devil": 98034,
         "Base MP": 24587,
         "Total MP": 26287,
-        "Phy. Bal.": 118,
-        "Mag. Bal.": 40,
+        "Phy. Bal.": "118%",
+        "Mag. Bal.": "40%",
         "Build": "Bow"
     },
     {
@@ -7609,8 +7636,8 @@
         "Total HP Devil": 45960,
         "Base MP": 82384,
         "Total MP": 82634,
-        "Phy. Bal.": 73,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "73%",
+        "Mag. Bal.": "120%",
         "Build": "Spear"
     },
     {
@@ -7636,8 +7663,8 @@
         "Total HP Devil": 42611,
         "Base MP": 73062,
         "Total MP": 73912,
-        "Phy. Bal.": 69,
-        "Mag. Bal.": 119,
+        "Phy. Bal.": "69%",
+        "Mag. Bal.": "119%",
         "Build": "Wizard"
     },
     {
@@ -7663,8 +7690,8 @@
         "Total HP Devil": 49339,
         "Base MP": 76324,
         "Total MP": 78474,
-        "Phy. Bal.": 70,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "70%",
+        "Mag. Bal.": "120%",
         "Build": "Wizard"
     },
     {
@@ -7690,8 +7717,8 @@
         "Total HP Devil": 108868,
         "Base MP": 27150,
         "Total MP": 29300,
-        "Phy. Bal.": 120,
-        "Mag. Bal.": 44,
+        "Phy. Bal.": "120%",
+        "Mag. Bal.": "44%",
         "Build": "Warrior"
     },
     {
@@ -7717,8 +7744,8 @@
         "Total HP Devil": 52220,
         "Base MP": 75392,
         "Total MP": 75392,
-        "Phy. Bal.": 75,
-        "Mag. Bal.": 120,
+        "Phy. Bal.": "75%",
+        "Mag. Bal.": "120%",
         "Build": "S/S"
     },
     {
@@ -7744,8 +7771,8 @@
         "Total HP Devil": 53641,
         "Base MP": 71197,
         "Total MP": 75447,
-        "Phy. Bal.": 77,
-        "Mag. Bal.": 116,
+        "Phy. Bal.": "77%",
+        "Mag. Bal.": "116%",
         "Build": "N/A"
     }
 ]
