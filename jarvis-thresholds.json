@@ -1,0 +1,46 @@
+{
+    "thresholds": {
+      "IP": {
+        "good": 2100,
+        "neutral": 2000,
+        "bad": 1900
+      },
+      "Resistances": {
+        "Freeze Resist": {
+            "good": 55,
+            "neutral": 25,
+            "bad": 0
+        },
+        "Poison Resist": {
+            "good": 55,
+            "neutral": 25,
+            "bad": 0
+        },
+        "Electric Resist": {
+            "good": 55,
+            "neutral": 25,
+            "bad": 0
+        },
+        "Burn Resist": {
+            "good": 55,
+            "neutral": 25,
+            "bad": 0
+        },
+        "Zombie Resist": {
+            "good": 55,
+            "neutral": 25,
+            "bad": 0
+        }
+      },
+      "Set": {
+        "good": ["Garment", "Robe"],
+        "neutral": ["Light armor", "Protector"],
+        "bad": ["Heavy armor", "Armor"]
+      },
+      "Total Devil HP": {
+        "good": 120000,
+        "neutral": 50000,
+        "bad": 45000
+      }
+    }
+  }
